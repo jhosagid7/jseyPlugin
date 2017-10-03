@@ -1,2 +1,2 @@
 # jseyPlugin
-Repo para plugin de WordPress
+Repo para plugin de WordPress FM
